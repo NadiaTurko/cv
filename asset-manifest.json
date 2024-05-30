@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/cv/static/css/main.87fddef3.css",
+    "main.js": "/cv/static/js/main.e21274df.js",
+    "static/js/453.5333ad58.chunk.js": "/cv/static/js/453.5333ad58.chunk.js",
+    "static/media/about.jpg": "/cv/static/media/about.07b84cc798a5949f9307.jpg",
+    "static/media/profile.jpg": "/cv/static/media/profile.07b84cc798a5949f9307.jpg",
+    "static/media/CV_Nadia_Romanchuk_Frontend_(React)_developer.pdf": "/cv/static/media/CV_Nadia_Romanchuk_Frontend_(React)_developer.ce37c8e61a036a8a9e39.pdf",
+    "index.html": "/cv/index.html",
+    "main.87fddef3.css.map": "/cv/static/css/main.87fddef3.css.map",
+    "main.e21274df.js.map": "/cv/static/js/main.e21274df.js.map",
+    "453.5333ad58.chunk.js.map": "/cv/static/js/453.5333ad58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87fddef3.css",
+    "static/js/main.e21274df.js"
+  ]
+}
